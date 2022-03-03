@@ -10,6 +10,8 @@
 ## Prerequisities
 * You need to have git installed
 * You can install it with the following command in your terminal $ sudo apt install git-all
+
+## Setup instructions
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
