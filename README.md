@@ -18,6 +18,8 @@ To access this project on your local files, you can clone it using these steps
 * This will clone the repositoty into your local folder
 
 ## BDD
+As a user I would like to:
+* Enter a github username using a form.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
