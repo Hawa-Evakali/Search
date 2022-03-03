@@ -32,7 +32,8 @@ As a user I would like to:
 5. BOOTSTRAP
 6. GIT
 
-##
+## Live Site
+View [Live] (https://github.com/Hawa-Evakali/Search.git)
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
