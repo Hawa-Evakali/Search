@@ -15,6 +15,7 @@
 To access this project on your local files, you can clone it using these steps
 * Open your terminal
 * Use this command to clone https://github.com/Hawa-Evakali/Search.git
+* This will clone the repositoty into your local folder
 
 ## Development server
 
