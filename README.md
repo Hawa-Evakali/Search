@@ -23,8 +23,18 @@ As a user I would like to:
 * Submit the form and see descriptions of other peoples repositories.
 * Delete a form with repositories.
 * See the number of upvotes and number of downvotes for each repository.
-## Development server
 
+## Technologies used
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. ANGULARJS
+5. BOOTSTRAP
+6. GIT
+
+##
+
+## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
